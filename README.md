@@ -1,2 +1,2 @@
-# Horizontal-scroll-like-Flipkart-website
-Horizontal scrolling of divs which are clickable just like that in the flipkart  website with html, css and bootstrap 4
+# Horizontal-scrolling-divs for ecommerce website.
+Horizontal scrolling of divs which are clickable for ecommerce  websites with html, css and bootstrap 4.
